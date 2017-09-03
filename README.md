@@ -1,1 +1,1 @@
-Machine Learning Projects
+List of Machine Learning Projects
